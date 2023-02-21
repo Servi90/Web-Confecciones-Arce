@@ -184,3 +184,7 @@ button {
 .cookiesText {
   text-align: left !important;
 }
+.camitasStacked {
+  width: 360px;
+  min-height: 100px;
+}
